@@ -12,4 +12,5 @@
 
 # set these environment variables on your prod server
 production:
-  uri: <%= ENV['MONGOHQ_URL'] %>
+  uri: mongodb://heroku:247b6edd029a0c41812d0408ebe2c492@flame.mongohq.com:27103/app4987538
+#<%= ENV['MONGOHQ_URL'] %>

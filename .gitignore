@@ -14,4 +14,3 @@
 /vendor
 /db
 /config/mongo.yml_*
-Gemfile.lock
