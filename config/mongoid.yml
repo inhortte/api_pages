@@ -1,14 +1,14 @@
-defaults: &defaults
-  host: 127.0.0.1
-  port: 27017
+#defaults: &defaults
+#  host: 127.0.0.1
+#  port: 27017
 
-development:
-  <<: *defaults
-  database: api_pages_development
+#development:
+#  <<: *defaults
+#  database: api_pages_development
 
-test:
-  <<: *defaults
-  database: api_pages_test
+#test:
+#  <<: *defaults
+#  database: api_pages_test
 
 # set these environment variables on your prod server
 production:
