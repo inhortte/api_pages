@@ -1,3 +1,0 @@
-production:
-  <<: *defaults
-  uri: <%= ENV['MONGOHQ_URL'] %>

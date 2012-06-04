@@ -13,3 +13,4 @@
 *~
 /vendor
 /db
+/config/mongo.yml*
